@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshTheLegend
--  I’m interested in nothing much. Just a bit of stories, kdramas, animes, and mangas.
-- 🌱 I’m currently learning CSCI and jeez do i really have to follow the form github is presenting...
-- 💞️ I’m looking to collaborate on ... nobody
+- Can't wait to get involved more and more in programming.
+- 🌱 I’m currently learning CSCI, too close to graduation. Yet, I'd say self learning is way more beneficial than the disappointing curriculums in my country.
+- 💞️ I’m looking to collaborate in learning.
 - 📫 How to reach me ... +961 76 350 373 
 
 <!---
